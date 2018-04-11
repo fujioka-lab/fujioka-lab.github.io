@@ -4,15 +4,16 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+2018年4月に発足した原子核物理（実験）の研究室です。
+特に陽子や中性子とは異なる粒子（ハドロン）
+を内部に含むハドロン多体系（ハイパー核や中間子原子核）を
+研究対象としています。
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+J-PARC（大強度陽子加速器施設、茨城県東海村）、
+RIBF（理化学研究所仁科加速器研究センター、埼玉県和光市）、
+RCNP（大阪大学核物理研究センター、大阪府茨木市）、
+ELPH（東北大学電子光理学研究センター、宮城県仙台市）、
+GSI-FAIR（重イオン研究所-反陽子イオン研究施設、ドイツ・ダルムシュタット）
+などの加速器施設で、一次ビームないし二次ビームを原子核標的に
+照射することにより、短寿命なハドロン多体系を生成し、
+その性質を明らかにすることを目的としています。
