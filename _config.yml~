@@ -16,7 +16,7 @@
 title: 藤岡研究室 (Fujioka Group @ TITECH)
 email: fujioka_at_phys.titech.ac.jp
 description: >- # this means to ignore newlines until "baseurl:"
-  2018年4月に発足した新しい研究室です。
+  東京工業大学 理学院 物理学系
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
